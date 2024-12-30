@@ -1,27 +1,27 @@
-# GESTION DE STOCK INTELLIGENTE
+# SMART INVENTORY MANAGEMENT
 
-Transformez votre gestion d'inventaire avec notre solution complète et innovante. Notre plateforme vous permet de :
+Transform your inventory management with our comprehensive and innovative solution. Our platform allows you to:
 
-- Suivre vos stocks en temps réel
-- Optimiser vos opérations quotidiennes  
-- Améliorer votre rentabilité
-- Générer des rapports détaillés
-- Prendre des décisions éclairées
+- Track your stock in real-time
+- Optimize your daily operations
+- Improve your profitability 
+- Generate detailed reports
+- Make informed decisions
 
-## Découvrez la puissance de notre solution
+## Discover the power of our solution
 
-![Interface de gestion des stocks](./2.webp)
+![Inventory management interface](./2.webp)
 
-## Prêt à révolutionner votre gestion de stock ?
+## Ready to revolutionize your inventory management?
 
-Réservez dès maintenant une démonstration personnalisée avec l'un de nos experts :
+Book a personalized demonstration with one of our experts now:
 
-👉 [Planifier ma démo](https://calendly.com/fridajmatt/consultant-it)
+👉 [Schedule my demo](https://calendly.com/fridajmatt/consultant-it)
 
-Lors de cette session de 30 minutes, nous :
-- Analyserons vos besoins spécifiques
-- Vous montrerons les fonctionnalités clés
-- Répondrons à toutes vos questions
-- Établirons un plan d'action personnalisé
+During this 30-minute session, we will:
+- Analyze your specific needs
+- Show you the key features
+- Answer all your questions
+- Establish a personalized action plan
 
-Ne laissez plus une mauvaise gestion des stocks freiner votre croissance. Passez à l'action aujourd'hui !
+Don't let poor inventory management hold back your growth. Take action today!
